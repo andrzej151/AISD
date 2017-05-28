@@ -1,0 +1,8 @@
+7
+456212 Kamil kot 4
+543883 hanna nowak 3
+732936 Adam Kowalski 5
+732939 Adam Nowak 4
+478478 Wladek kowal 3
+455578 Radek kowal 2
+456512 Lukasz Ziemny 2

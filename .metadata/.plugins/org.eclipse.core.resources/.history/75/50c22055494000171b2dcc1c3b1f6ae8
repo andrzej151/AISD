@@ -1,0 +1,10 @@
+package Haszowanie;
+
+public class Main {
+	
+	TabHasz tab = new TabHasz();
+	Student s;
+	tab.dump();
+	
+
+}

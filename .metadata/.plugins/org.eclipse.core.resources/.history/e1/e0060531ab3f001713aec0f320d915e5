@@ -1,0 +1,45 @@
+package SortowanieKopcowe;
+
+import java.util.EmptyStackException;
+import java.util.LinkedList;
+import java.util.List;
+
+public class UnsortedPriorityQueue implements Queue {
+	private final List _list;
+	private final Comparator _comparator; // do ustalenia priorytetu
+
+	public UnsortedPriorityQueue(Comparator comparator) {
+		_comparator = comparator;
+		_list = new LinkedList();
+	}
+
+	public void enqueue(Object value) {
+		_list.add(value);
+	}
+
+	public Object dequeue() throws EmptyQueueException {
+		if (isEmpty())
+			throw new EmptyQueueException();
+		return _list.delete(getIndexOfLargestElement());
+	}
+
+	private int getIndexOfLargestElement() {
+		int result = 0;
+		for (int i = 1; i < _list.size(); ++i)
+			if (_comparator.compare(_list.get(i), _list.get(result)) > 0)
+				result = i;
+		return result;
+	}
+
+	public void clear() {
+		_list.clear();
+	}
+
+	public int size() {
+		return _list.size();
+	}
+
+	public boolean isEmpty() {
+		return _list.isEmpty();
+	}
+}

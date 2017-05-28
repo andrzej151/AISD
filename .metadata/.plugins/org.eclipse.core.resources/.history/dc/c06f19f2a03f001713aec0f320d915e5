@@ -1,0 +1,60 @@
+package SortowanieKopcowe;
+
+import java.util.Random;
+
+/*
+ * author AndrzejD
+ */
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//		Osoba[] tab = new Osoba[5];
+//
+//		InsertSort insertsort;
+//		// komparatory proste
+//		// po nazwisku
+	NameComparator nazwisko = NameComparator.INSTANCE;
+//		// po wieku
+//		WiekComparator wiek = WiekComparator.INSTANCE;
+//		// po imieniu
+//		ImieComparator imie = ImieComparator.INSTANCE;
+//		// zlorzony funkcja
+//		ZlozonyComparator zlozonyf = ZlozonyComparator.INSTANCE;
+//		// z³orzony z podstawowych na ArrayList
+//		CompoundComparator zlozonyA = new CompoundComparator();
+//		zlozonyA.addComparator(wiek);
+//		zlozonyA.addComparator(imie);
+//		zlozonyA.addComparator(nazwisko);
+//
+//		System.out.println("\n Nieposotrowana");
+//		tab[0] = new Osoba("Dandys", "Ilona", 21);
+//		tab[1] = new Osoba("Zlikaricz", "Zygmunt", 24);
+//		tab[2] = new Osoba("Abulabas", "Adam", 28);
+//		tab[3] = new Osoba("Wesolowska", "Anna", 23);
+//		tab[4] = new Osoba("Dolna", "Honorata", 23);
+//		for (int i = 0; i < tab.length; i++) {
+//			System.out.println(tab[i]);
+//		}
+		System.out.println("");
+		Random gen = new Random();
+		int w=10;
+		int[] tab = new int[10];
+		for(int i = 0;i<w;i++)
+		{
+			tab[i] = gen.nextInt(100);
+		}
+		
+		for (int i = 0; i < tab.length; i++) {
+			System.out.println(tab[i]);
+		}
+		System.out.println();
+		HeapSort sortowanie = new HeapSort(nazwisko);
+		tab =  sortowanie.sortrosnaco(tab);
+		
+		for (int i = 0; i < tab.length; i++) {
+			System.out.println(tab[i]);
+		}
+
+	}
+}

@@ -1,0 +1,13 @@
+package Haszowanie;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		TabHasz tab = new TabHasz();
+		Student s;
+		tab.dump();
+
+	}
+
+}

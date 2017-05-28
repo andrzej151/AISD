@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Student.java&apos; to &apos;Aisd10/src/Haszowanie&apos;&#x0D;&#x0A;- Original project: &apos;Aisd2&apos;&#x0D;&#x0A;- Destination element: &apos;Aisd10/src/Haszowanie&apos;&#x0D;&#x0A;- Original element: &apos;iterator.Student.java&apos;" description="Copy compilation unit" destination="=Aisd10/src&lt;Haszowanie" element1="/src&lt;iterator{Student.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1495605473004" units="1" version="1.0"/>
+</session>
