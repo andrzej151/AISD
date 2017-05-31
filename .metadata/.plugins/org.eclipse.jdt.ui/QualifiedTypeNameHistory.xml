@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="listy.Student"/>
 <fullyQualifiedTypeName name="listy.LinkedList"/>
 <fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
 <fullyQualifiedTypeName name="listy.Iterator"/>
@@ -35,7 +34,6 @@
 <fullyQualifiedTypeName name="Sortowanie.SelectSort"/>
 <fullyQualifiedTypeName name="Sortowanie.PorownanieSortowan"/>
 <fullyQualifiedTypeName name="Sortowanie.BubbleSort"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="java.lang.Iterable"/>
 <fullyQualifiedTypeName name="java.util.Iterator"/>
 <fullyQualifiedTypeName name="WysukiwanieBinarne.Sortowania"/>
@@ -49,15 +47,17 @@
 <fullyQualifiedTypeName name="SortowanieKopcowe.InsertSort"/>
 <fullyQualifiedTypeName name="SortowanieKopcowe.HeapSort"/>
 <fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="java.util.LinkedList"/>
 <fullyQualifiedTypeName name="java.util.Random"/>
 <fullyQualifiedTypeName name="SortowanieKopcowe.SortedPriorityQueue"/>
 <fullyQualifiedTypeName name="SortowanieKopcowe.UnsortedPriorityQueue"/>
 <fullyQualifiedTypeName name="java.lang.Boolean"/>
-<fullyQualifiedTypeName name="Haszowanie.Hasz"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="Haszowanie.TabHasz"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="Haszowanie.Hasz"/>
+<fullyQualifiedTypeName name="Haszowanie.ListHash"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
 <fullyQualifiedTypeName name="Haszowanie.Student"/>
 </qualifiedTypeNameHistroy>

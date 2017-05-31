@@ -1,6 +1,6 @@
 package Haszowanie;
 
-public class TabHasz implements Hasz{
+public class TabHasz {
 
 	private Object [] tab;
 	private int size;
@@ -11,13 +11,18 @@ public class TabHasz implements Hasz{
 		size = 0;
 	}
 	
-	@Override
-	public Object get(int k) {
+
+	public Object get(Object k) {
 		// TODO Auto-generated method stub
-		int kl=k%tab.length;
+		
+		int kl=k.hashCode()%tab.length;
 		int i =1;
-		while(tab[kl]!=null&&kl!=((Student)tab[kl]).getnrindexu())
+		while(tab[kl]!=null)
 		{
+			if(k.equals(((Student)tab[kl]).getnazwisko()))
+			{
+				return tab[kl];
+			}
 			kl=(kl+i*i)%tab.length;
 			i++;
 		}
@@ -32,10 +37,10 @@ public class TabHasz implements Hasz{
 		return kl;
 	}
 
-	@Override
-	public void put(int k, Object v) {
+
+	public void put(Object k, Object v) {
 		// TODO Auto-generated method stub
-		int kl=k%tab.length;
+		int kl=v.hashCode()%tab.length;
 		int i =1;
 		while(tab[kl]!=null)
 		{
@@ -47,31 +52,51 @@ public class TabHasz implements Hasz{
 		
 	}
 
-	@Override
-	public Boolean containsKey(int k) {
+	public Boolean containsKey(Object k) {
 		// TODO Auto-generated method stub
-		return tab[k]!=null;
+		int kl=k.hashCode()%tab.length;
+		int i =1;
+		while(tab[kl]!=null)
+		{
+			if(k.equals(((Student)tab[kl]).getnazwisko()))
+			{
+				return true;
+			}
+			kl=(kl+i*i)%tab.length;
+			i++;
+		}
+		
+		return false;
 	}
 
-	@Override
 	public int size() {
 		// TODO Auto-generated method stub
 		return size;
 	}
 
-	@Override
 	public Boolean isEmpty() {
 		// TODO Auto-generated method stub
 		return size==0;
 	}
 
-	@Override
 	public void resize() {
 		// TODO Auto-generated method stub
 		
+		Object [] t = tab;
+		tab = new Object[tab.length*2+3];
+		for(int i = 0;i<t.length;i++)
+		{
+			if(t[i]!=null)
+			{
+				put(((Student)t[i]).getnazwisko(),t[i]);
+				dump();
+			}
+		}
+		System.out.println("przepisano");
+		
+		
 	}
 
-	@Override
 	public void dump() {
 		// TODO Auto-generated method stub
 		for(int i = 0;i<tab.length;i++)

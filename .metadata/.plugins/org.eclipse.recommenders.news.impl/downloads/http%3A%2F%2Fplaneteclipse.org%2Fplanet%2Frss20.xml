@@ -8,6 +8,22 @@
 	<description>Planet Eclipse - http://planeteclipse.org/planet/</description>
 
 <item>
+	<title>Ian Skerrett: New Eclipse IoT Charter and Steering Committee</title>
+	<guid isPermaLink="false">http://ianskerrett.wordpress.com/?p=4150</guid>
+	<link>http://feedproxy.google.com/~r/IanSkerrett/~3/t6971F-tZEQ/</link>
+	<description>&lt;p&gt;It is hard to believe the Eclipse IoT Working Group was launch over 5 years ago on &lt;a href=&quot;https://www.eclipse.org/org/press-release/20111101_m2msolutions.php&quot;&gt;November 1, 2011&lt;/a&gt;, at the time we called it Eclipse M2M.  A lot has changed over these 5 years, including the name, and the IoT industry has matured to be one of the dominant technology trends in the technology industry. The good news is the Eclipse IoT Working Group has been a huge success. We have a thriving open source community that includes 30 different projects, more than 200 developers and 30 member companies. Eclipse IoT is well known and positioned in the industry and continues to see momentum and growth.&lt;/p&gt;
+&lt;p&gt;Given this community growth, we felt it was time to take a fresh look at the Eclipse IoT Working Group charter and the Steering Committee. After a number of drafts and revisions, we have updated and published the new &lt;a href=&quot;https://www.eclipse.org/org/workinggroups/iotwg_charter.php&quot;&gt;working group charter&lt;/a&gt;.  Most of the changes were done to reflect the current focus on IoT runtimes and frameworks and adding more clarity to the roles and responsibilities of the Steering Committee.&lt;/p&gt;
+&lt;p&gt;Now that the new charter as been approved, I am thrilled to have Red Hat, Bosch and Eurotech volunteer to participate in the Eclipse IoT Steering Committee. All three companies are active leaders in the Eclipse IoT community and the general IoT industry. They each bring a unique perspective on IoT and open source to our community:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bosch is a world leading industrial company that is considered a leader in providing industrial IoT solutions. Their commitment and involvement in the Eclipse IoT community is evident by their involvement in projects like Eclipse Leshan, Eclipse Hono, Eclipse Vorto, Eclipse Hawkbit, and Eclipse Ditto.&lt;/li&gt;
+&lt;li&gt;Eurotech is well known industrial gateway vendor that was one of the founding members of Eclipse M2M. They have experience incredible success with Eclipse Kura and are on the path to success with Eclipse Kapua.&lt;/li&gt;
+&lt;li&gt;Red Hat has deep roots in open source and enterprise IT. In the last 2 years they have become deeply involved in projects like Kapua, Hono and others. They have also been instrumental in helping launch our &lt;a href=&quot;https://iot.eclipse.org/testbeds/&quot;&gt;Eclipse IoT Open Testbeds&lt;/a&gt;.  Red Hat understands that for IoT to be successful it needs to integrate OT and IT. They are on the path to being a leader in this space.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The next 2-3 years are going to be very exciting for the IoT industry and in particular the Eclipse IoT community. We have the technology and individuals that are making a difference and delivering real and valuable technology for IoT solution developers. It is very exciting to have these 3 companies help lead the way to our continued success and momentum.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;br /&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/ianskerrett.wordpress.com/4150/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/ianskerrett.wordpress.com/4150/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;https://pixel.wp.com/b.gif?host=ianskerrett.wordpress.com&amp;amp;blog=405862&amp;amp;post=4150&amp;amp;subd=ianskerrett&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/IanSkerrett/~4/t6971F-tZEQ&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Thu, 25 May 2017 17:48:18 +0000</pubDate>
+</item>
+<item>
 	<title>Kichwa Coders: Woohoo! Java 9 has a REPL! Getting Started with JShell and Eclipse January</title>
 	<guid isPermaLink="false">http://kichwacoders.com/?p=2261</guid>
 	<link>https://kichwacoders.com/2017/05/25/woohoo-java-9-has-a-repl-getting-started-with-jshell-and-eclipse-january/</link>
@@ -1345,13 +1361,6 @@ It can be seen as an API framework over Vert.X.&lt;/p&gt;
 &lt;h3&gt;&lt;a class=&quot;anchor&quot; href=&quot;https://github.com/PierreSachot/Internship-Reports/blob/master/Pierre%20Sachot%20-%20week%204.md#conclusion&quot; id=&quot;user-content-conclusion&quot;&gt;&lt;/a&gt;Conclusion&lt;/h3&gt;
 &lt;p&gt;Now users have the capacity to disable CSourceNotFoundEditor window altogether or to choose for themselves when to display it. Thus saving time and improving the user experience of the Eclipse debugger. This is a great example of how working on an open source project can really benefit a whole community of users. But, a word of warning, CDT project isn’t the easiest program to develop or the easiest to master, you need to understand other user’s code and if you change it you need to retain its original logic and style. Fiddly perhaps but well worth it! The user community will appreciate your efforts and the flow of coding future work will be smoother and more efficient. A better user experience for everyone.&lt;/p&gt;&lt;br /&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/kichwacoders.wordpress.com/1934/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/kichwacoders.wordpress.com/1934/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;https://pixel.wp.com/b.gif?host=kichwacoders.com&amp;amp;blog=68353182&amp;amp;post=1934&amp;amp;subd=kichwacoders&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
 	<pubDate>Wed, 17 May 2017 13:36:31 +0000</pubDate>
-</item>
-<item>
-	<title>Eclipse Announcements: EclipseCon Europe 2017 | Call for Papers Open</title>
-	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/Xt2y9bp7sPk/its-time-submit</guid>
-	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/Xt2y9bp7sPk/its-time-submit</link>
-	<description>Submissions are now open for EclipseCon Europe 2017, October 24 - 26, in Ludwigsburg, Germany.&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/Xt2y9bp7sPk&quot; width=&quot;1&quot; /&gt;</description>
-	<pubDate>Wed, 17 May 2017 13:29:00 +0000</pubDate>
 </item>
 
 </channel>

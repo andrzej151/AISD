@@ -1,5 +1,0 @@
-package SortowanieKopcowe;
-
-public interface Queue {
-
-}

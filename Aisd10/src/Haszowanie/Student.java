@@ -27,6 +27,9 @@ public class Student {
 	public void setocena(int ocena) {
 		_ocena = ocena;
 	}
+	public String getnazwisko() {
+		return _nazwisko;
+	}
 
 	public Student(int nrindexu, String imie, String nazwisko, int ocena) {
 		_imie = imie;
