@@ -6,6 +6,39 @@
     <language>en</language>
      <atom:link href="http://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>JHipster IDE</title>
+    <link>http://marketplace.eclipse.org/content/jhipster-ide</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/JHLogo1.jpg&quot; width=&quot;65&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2016-11-26 14:43&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2017-05-30 11:34&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22JHipster%20%28Open%20Source%20Community%29%22&quot;&gt;JHipster (Open Source Community)&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/scolameoakt/listings&quot; title=&quot;Serano Colameo&quot;&gt;Serano Colameo&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;strong&gt;JHipster IDE&lt;/strong&gt; is an Xtext DSL which provides textual editing support of JHipster Domain Language files for pupular IDEs and editors such as Eclipse and Visual Studio Code. Thanks to Xtext, JHipster-IDE provides the features we have come to expect from modern IDE editors.&lt;/p&gt;
+&lt;p&gt;In the new release (1.2.0) we have fixed issues and added new features to create a new JHipster project from scratch. For that purpose we integrated the Eclipse Terminal (TM) plugin to call &quot;yo jhipster&quot; generator from the project wizard. The generator gets called through a shell script which can be easely modified in the preference page of the JHipster plugin.&lt;/p&gt;
+&lt;p&gt;Finally, the JDL grammar was aligned to the newest changes in the core project of JHipster.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Solved issues:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Enhanced project creation wizard&lt;/li&gt;
+&lt;li&gt;
+		Added more validations and quick fixes&lt;/li&gt;
+&lt;li&gt;
+		Added the type Instant for entity fields to generate timestamps&lt;/li&gt;
+&lt;li&gt;
+		Fixed small issues&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;For more information please visit our project page: &lt;a href=&quot;https://jhipster.github.io/jhipster-ide/&quot; rel=&quot;nofollow&quot;&gt;https://jhipster.github.io/jhipster-ide/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Sat, 26 Nov 2016 19:43:19 +0000</pubDate>
+ <dc:creator>scolameoakt</dc:creator>
+ <guid isPermaLink="false">3184658 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/jhipster-ide#comments</comments>
+  </item>
+  <item>
+    <title>Bonita BPM </title>
+    <link>http://marketplace.eclipse.org/content/bonita-bpm</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/Bonita_BPM_by%20Bonitasoft-110x80.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2009-12-17 10:35&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2017-05-30 03:40&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Bonitasoft%22&quot;&gt;Bonitasoft&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mmisingnamervj/listings&quot; title=&quot;Bonitasoft Community&quot;&gt;Bonitasoft Community&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Bonita BPM is an intuitive and powerful Business Process Management (BPM) solution for creating and executing process based applications. Bonita BPM combines three solutions in one: a user-friendly Studio for process modeling and application development, an execution engine, and a breakthrough end-user web interface. With Bonita Studio , an Eclipse-based graphical interface, users can draw their processes as naturally as on a white board. They can then define process actors &amp;amp; data, and link them easily with their Information Systems.      Bonita Studio comes with more than 100 built in and contributed connectors for many commonly used commercial and open-source database, messaging system, ERP, CRM, ECM and more. Examples: AD, Alfresco, BIRT, eXo, Jaspersoft, LDAP, Nuxeo, SAP, Sharepoint, SugarCRM, Talend ... Bonita Studio also provides a drag-n-drop application builder helping users design their web-forms easily - and add specific code when needed to achieve full customization. When the application is designed, a simple click is enough to deploy it - either in the built-in test environment, or in production mode. Other Studio features include process simulation, documentation generation, report and dashboard design. Bonita Execution Engine is a powerful and scalable Java workflow engine. It is flexible enough to adapt easily to any Information Systems architecture, from simple to complex. And it&#039;s powerful enough to support intensive workload.     &lt;/p&gt;
+&lt;p&gt;Bonita Portal is a BPM web-portal conceived to be as simple to use as an e-mail inbox allowing end-user to manage their processes and daily tasks.&lt;/p&gt;
+&lt;p&gt;Bonita Portal also give authorized users all the means to monitor and administrate processes execution.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.bonitasoft.com/how-we-do-it/downloads?utm_source=eclipse_market_place&amp;amp;utm_medium=dedicated_page&amp;amp;utm_content=product_presentation&amp;amp;utm_campaign=ecosystem_network&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Thu, 17 Dec 2009 15:35:48 +0000</pubDate>
+ <dc:creator>mmisingnamervj</dc:creator>
+ <guid isPermaLink="false">1092 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/bonita-bpm#comments</comments>
+  </item>
+  <item>
     <title>eclipse-pmd</title>
     <link>http://marketplace.eclipse.org/content/eclipse-pmd</link>
     <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/eclipse-pmd-logo-110x80.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2013-06-22 05:32&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-05-29 14:03&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Philip%20Graf%22&quot;&gt;Philip Graf&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pgrafn2q/listings&quot; title=&quot;Philip Graf&quot;&gt;Philip Graf&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;The &lt;a href=&quot;http://acanda.github.io/eclipse-pmd/&quot; rel=&quot;nofollow&quot;&gt;eclipse-pmd&lt;/a&gt; plug-in integrates the well-known source code analyzer PMD into the Eclipse IDE. Everytime you save your work, eclipse-pmd scans your source code and looks for potential problems like possible bugs and suboptimal, duplicate, dead or overly complicated code. Where possible, eclipse-pmd offers quick fixes that automatically fix the problems. These quick fixes can be used to fix a single problem or all occurrences in your entire code base.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
@@ -117,101 +150,6 @@
  <dc:creator>gmisingnamepu1</dc:creator>
  <guid isPermaLink="false">3464077 at http://marketplace.eclipse.org</guid>
  <comments>http://marketplace.eclipse.org/content/maestro-studio-microsoft-cc-compiler#comments</comments>
-  </item>
-  <item>
-    <title>Design and Verification Tools (DVT) IDE for e, SystemVerilog, and VHDL</title>
-    <link>http://marketplace.eclipse.org/content/design-and-verification-tools-dvt-ide-e-systemverilog-and-vhdl</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/AMIQ_logo_web_110x63.jpg&quot; width=&quot;110&quot; height=&quot;63&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2006-04-19 08:00&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-05-29 07:55&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22AMIQ%20EDA%22&quot;&gt;AMIQ EDA&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/emisingname6ia/listings&quot; title=&quot;AMIQ Support&quot;&gt;AMIQ Support&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Design and Verification Tools (DVT) is an integrated development environment (IDE) for the &lt;strong&gt;&lt;em&gt;e&lt;/em&gt; language, SystemVerilog, Verilog, VHDL, and mixed language projects&lt;/strong&gt; that also provides &lt;strong&gt;Universal Verification Methodology (UVM) support&lt;/strong&gt;. It is similar to well-known programming tools like Visual Studio®, NetBeans®, and IntelliJ®. DVT comprises a proprietary IEEE standard-compliant parser, a smart code editor, an intuitive GUI, a comprehensive set of features that help with code inspection, navigation, documentation, and debugging, and an innovative linting framework. DVT allows design and verification engineers to overcome the limitations of plain text editors and use a modern and powerful tool that enables them to:&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;
-		Increase the speed and quality of new code development&lt;/li&gt;
-&lt;li&gt;
-		Easily understand complex or poorly documented source code&lt;/li&gt;
-&lt;li&gt;
-		Simplify the maintenance of legacy code and reusable libraries&lt;/li&gt;
-&lt;li&gt;
-		Accelerate language and methodology learning&lt;/li&gt;
-&lt;li&gt;
-		Automatically generate well-organized source code documentation&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;
-	FEATURES  Some of the features that DVT offers include:&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;
-		Autocomplete&lt;/li&gt;
-&lt;li&gt;
-		Compilation errors signaled on the fly&lt;/li&gt;
-&lt;li&gt;
-		In-line reminders for task tracking (TO DOs)&lt;/li&gt;
-&lt;li&gt;
-		Customizable code and project templates&lt;/li&gt;
-&lt;li&gt;
-		Dedicated wizards to generate getters and setters, override functions, or help with UVM factory registration&lt;/li&gt;
-&lt;li&gt;
-		Hyperlinks that help navigate faster in the source code&lt;/li&gt;
-&lt;li&gt;
-		Semantic search&lt;/li&gt;
-&lt;li&gt;
-		Refactoring&lt;/li&gt;
-&lt;li&gt;
-		Macro expansion&lt;/li&gt;
-&lt;li&gt;
-		Class and structural browsing&lt;/li&gt;
-&lt;li&gt;
-		Trace port connections&lt;/li&gt;
-&lt;li&gt;
-		UML diagrams for inspecting and documenting the architecture&lt;/li&gt;
-&lt;li&gt;
-		Module flow diagrams for inspecting and documenting a module structure&lt;/li&gt;
-&lt;li&gt;
-		Automated documentation extraction&lt;/li&gt;
-&lt;li&gt;
-		UVM support and compliance checking&lt;/li&gt;
-&lt;li&gt;
-		Cross-language capabilities for mixed-language projects&lt;/li&gt;
-&lt;li&gt;
-		Vi and emacs emulation&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;INTEGRATION WITH OTHER TOOLS Since it is built on the Eclipse Platform, the DVT IDE can be easily integrated within a large plug-in ecosystem. It also integrates seamlessly with all major hardware simulators such as NCSim , Specman , VCS , and Questa, to enable simplified simulation analysis and debugging. In addition, it works with revision control systems like CVS, Git, Subversion, ClearCase and bug tracking systems such as Bugzilla and ClearQuest.&lt;br /&gt;
-	RESOURCES &lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;
-		&lt;a href=&quot;http://www.dvteclipse.com/Design_and_Verification_Tools_Eclipse_IDE.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;DVT web page&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-		&lt;a href=&quot;http://www.dvteclipse.com/datasheet/AMIQ_DVT_Datasheet.pdf&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;DVT datasheet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-		&lt;a href=&quot;https://www.youtube.com/user/dvteclipse&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Demo movies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-		&lt;a href=&quot;http://www.dvteclipse.com/UVM_Support_in_DVT_Eclipse.html&quot; rel=&quot;nofollow&quot;&gt;UVM Support in DVT&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-		&lt;a href=&quot;http://www.dvteclipse.com/DVT_Debugger_Add-On_Module.html&quot; rel=&quot;nofollow&quot;&gt;DVT Debugger Module&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
-     <pubDate>Wed, 19 Apr 2006 12:00:18 +0000</pubDate>
- <dc:creator>emisingname6ia</dc:creator>
- <guid isPermaLink="false">192 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/design-and-verification-tools-dvt-ide-e-systemverilog-and-vhdl#comments</comments>
-  </item>
-  <item>
-    <title>Java coded templates ( or code snippets )</title>
-    <link>http://marketplace.eclipse.org/content/java-coded-templates-or-code-snippets</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/igel.jpg&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-05-22 16:19&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2017-05-28 07:54&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Florian%20Ingerl%22&quot;&gt;Florian Ingerl&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/fingerl/listings&quot; title=&quot;Florian Ingerl&quot;&gt;Florian Ingerl&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;This is an Eclipse plugin that allows the user to write code templates (or code snippets) for the Java editor where some template variables are computed from other template variables.&lt;/p&gt;
-&lt;p&gt;You can manage your Java-coded templates via the menu Window -&amp;gt; Preferences -&amp;gt; Java -&amp;gt; Editor -&amp;gt; Java-coded templates. Hit the New-button to start coding a new template.&lt;/p&gt;
-&lt;p&gt;E.g. the following would be code for a template for a private field with a getter-method&lt;/p&gt;
-&lt;p&gt;private ${type} ${field_name};&lt;br /&gt;
-	public ${type} ${getter: (String type, String field_name) -&amp;gt;&lt;br /&gt;
-	{&lt;br /&gt;
-	String s = Character.toUpperCase( field_name.charAt(0) ) + field_name.substring(1);&lt;br /&gt;
-	if(type.equals(&quot;boolean&quot;) )&lt;br /&gt;
-	return &quot;is&quot; + s;&lt;br /&gt;
-	else&lt;br /&gt;
-	return &quot;get&quot; + s;&lt;/p&gt;
-&lt;p&gt;}&lt;br /&gt;
-	}(){&lt;br /&gt;
-	return ${field_name};&lt;br /&gt;
-	}&lt;/p&gt;
-&lt;p&gt;After having successfully written your template, just type the first letters of the template&#039;s name into a Java editor and invoke content assist via Ctrl + Space.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
-     <pubDate>Mon, 22 May 2017 20:19:14 +0000</pubDate>
- <dc:creator>fingerl</dc:creator>
- <guid isPermaLink="false">3456050 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/java-coded-templates-or-code-snippets#comments</comments>
   </item>
   </channel>
 </rss>

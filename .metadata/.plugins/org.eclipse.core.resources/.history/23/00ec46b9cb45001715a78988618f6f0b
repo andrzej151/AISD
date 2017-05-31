@@ -61,8 +61,6 @@ public class DrzewoRB {
 		System.out.println("Wstawiam "+x);
 		_root = insert(x, _root);
 		_root.color = BLACK;
-		
-		System.out.println();
 	}
 
 	protected Node insert(int x, Node t) {

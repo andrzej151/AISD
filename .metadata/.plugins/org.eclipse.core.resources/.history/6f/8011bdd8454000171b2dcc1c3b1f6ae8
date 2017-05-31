@@ -1,6 +1,0 @@
-package Haszowanie;
-
-public interface Sortowania {
-
-	Object[] sort(Object[] Lists);
-}

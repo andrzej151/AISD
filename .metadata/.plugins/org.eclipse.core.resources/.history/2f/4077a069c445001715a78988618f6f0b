@@ -2,7 +2,7 @@ package DrzewoRB;
 
 import java.util.Random;
 
-
+import DrzewoBST.DrzewoBST.Node;
 
 public class DrzewoRB {
 	static final boolean RED = true;
@@ -51,18 +51,15 @@ public class DrzewoRB {
 		return x;
 	}
 
-	private void colorZm(Node t) {
+	private void colorFlip(Node t) {
 		t.color = !t.color;
 		t.left.color = !t.left.color;
 		t.right.color = !t.right.color;
 	}
 
 	public void insert(int x) {
-		System.out.println("Wstawiam "+x);
 		_root = insert(x, _root);
 		_root.color = BLACK;
-		
-		System.out.println();
 	}
 
 	protected Node insert(int x, Node t) {
@@ -70,13 +67,13 @@ public class DrzewoRB {
 			t = new Node(x);
 		else {
 			if (isRed(t.left) && isRed(t.right))
-				colorZm(t);
-			if (t.value > x)
+				colorFlip(t);
+			if (t.value < x)
 				t.left = insert(x, t.left);
-			else if (t.value < x)
+			else if (t.value > x)
 				t.right = insert(x, t.right);
 			else
-				throw new RuntimeException("Duplikat");
+				throw new RuntimeException("Duplicate     ");
 			t = fixUp(t);
 		}
 		return t;
@@ -88,73 +85,73 @@ public class DrzewoRB {
 		if (isRed(t.left) && isRed(t.left.left))
 			t = rotateR(t);
 		if (isRed(t.left) && isRed(t.right))
-			colorZm(t);
+			colorFlip(t);
 		return t;
 	}
-//
-//	private Node moveRedR(Node t) {
-//		colorZm(t);
-//		if (isRed(t.left.left)) {
-//			t = rotateR(t);
-//			colorZm(t);
-//		}
-//		return t;
-//	}
-//
-//	private Node moveRedL(Node t) {
-//		colorZm(t);
-//		if (isRed(t.right.left)) {
-//			t.right = rotateR(t.right);
-//			t = rotateL(t);
-//			colorZm(t);
-//		}
-//		return t;
-//	}
-//
-//	public void delete(int x) {
-//		_root = delete(x, _root);
-//		if (_root != null)
-//			_root.color = BLACK;
-//	}
-//
-//	protected Node delete(int x, Node t) {
-//		if (t == null)
-//			throw new RuntimeException("Not found  ");
-//		else {
-//			if (t.value < x) {
-//				if (!isRed(t.left) && !isRed(t.left.left))
-//					t = moveRedL(t);
-//				t.left = delete(x, t.left);
-//			} else {
-//				if (isRed(t.left))
-//					t = rotateR(t);
-//				if (x == t.value && t.right == null)
-//					return null;
-//				else {
-//					if (!isRed(t.right) && !isRed(t.right.left))
-//						t = moveRedR(t);
-//					if (t.value > x)
-//						t.right = delete(x, t.right);
-//					else
-//						t.right = detachMin(t.right, t);
-//				}
-//			}
-//		}
-//		return fixUp(t);
-//	}
 
-//	protected Node detachMin(Node t, Node del) {
-//		if (t.left == null) {
-//			del.value = t.value;
-//			t = null;
-//		} else {
-//			if (!isRed(t.left) && !isRed(t.left.left))
-//				t = moveRedL(t);
-//			t.left = detachMin(t.left, del);
-//			t = fixUp(t);
-//		}
-//		return t;
-//	}
+	private Node moveRedR(Node t) {
+		colorFlip(t);
+		if (isRed(t.left.left)) {
+			t = rotateR(t);
+			colorFlip(t);
+		}
+		return t;
+	}
+
+	private Node moveRedL(Node t) {
+		colorFlip(t);
+		if (isRed(t.right.left)) {
+			t.right = rotateR(t.right);
+			t = rotateL(t);
+			colorFlip(t);
+		}
+		return t;
+	}
+
+	public void delete(int x) {
+		_root = delete(x, _root);
+		if (_root != null)
+			_root.color = BLACK;
+	}
+
+	protected Node delete(int x, Node t) {
+		if (t == null)
+			throw new RuntimeException("Not found  ");
+		else {
+			if (t.value < x) {
+				if (!isRed(t.left) && !isRed(t.left.left))
+					t = moveRedL(t);
+				t.left = delete(x, t.left);
+			} else {
+				if (isRed(t.left))
+					t = rotateR(t);
+				if (x == t.value && t.right == null)
+					return null;
+				else {
+					if (!isRed(t.right) && !isRed(t.right.left))
+						t = moveRedR(t);
+					if (t.value > x)
+						t.right = delete(x, t.right);
+					else
+						t.right = detachMin(t.right, t);
+				}
+			}
+		}
+		return fixUp(t);
+	}
+
+	protected Node detachMin(Node t, Node del) {
+		if (t.left == null) {
+			del.value = t.value;
+			t = null;
+		} else {
+			if (!isRed(t.left) && !isRed(t.left.left))
+				t = moveRedL(t);
+			t.left = detachMin(t.left, del);
+			t = fixUp(t);
+		}
+		return t;
+	}
 
 	public String toString() {
 		return toString(_root, 0);
@@ -189,23 +186,15 @@ public class DrzewoRB {
 	}
 
 	public int wysokosc() {
-		// TODO Auto-generated method stub
-		return wysokoscp(_root);
+		wysokosc = 0;
+		dodajpoziomy(0, _root);
+		return wysokosc;
 	}
 
-	private int wysokoscp(Node n) {
-		// TODO Auto-generated method stub
-		if (n == null)
-			return 0;
-		int l = wysokoscp(n.left);
-		int p = wysokoscp(n.right);
-		return (l > p) ? l + 1 : p + 1;
-	}
 	public void wyswietlpoziom() {
 		// TODO Auto-generated method stub
 		int wys = wysokosc();
-		System.out.println("klucze poziomami");
-		
+		System.out.println(wys);
 		for (int i = 0; i < wysokosc(); i++) {
 			System.out.println("poziom " + (i + 1));
 			wyswietlpoziomp(i, _root);
@@ -223,13 +212,22 @@ public class DrzewoRB {
 				wyswietlpoziomp(p - 1, n.right);
 			}
 		}
-		else
-		{
-		System.out.print("  *  ");
-		}
 
 	}
-	
+	private void przepisz(Node n) {
+		if (n.left != null)
+			przepisz(n.left);
+		if (n.right != null)
+			przepisz(n.right);
+		if (n != null) {
+			int i = (int) (2 * Math.pow(2, n.poziom) - 1);
+			while (tab[i][1] != 0)
+				i++;
+			tab[i][0] = n.value;
+			tab[i][1] = n.poziom;
+
+		}
+	}
 	
 	public void metody() {
 		// TODO Auto-generated method stub
@@ -270,7 +268,7 @@ public class DrzewoRB {
 		@Override
 		public String toString() {
 			// TODO Auto-generated method stub
-			return " " + value + " (" + (color ? "R)" : "B)") ;
+			return " " + value + " (" + (color ? "R)" : "B)") + " P " + poziom;
 		}
 	}
 

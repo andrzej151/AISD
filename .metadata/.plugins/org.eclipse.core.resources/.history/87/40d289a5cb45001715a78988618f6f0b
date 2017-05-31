@@ -58,11 +58,8 @@ public class DrzewoRB {
 	}
 
 	public void insert(int x) {
-		System.out.println("Wstawiam "+x);
 		_root = insert(x, _root);
 		_root.color = BLACK;
-		
-		System.out.println();
 	}
 
 	protected Node insert(int x, Node t) {
@@ -205,7 +202,7 @@ public class DrzewoRB {
 		// TODO Auto-generated method stub
 		int wys = wysokosc();
 		System.out.println("klucze poziomami");
-		
+		System.out.println(wys);
 		for (int i = 0; i < wysokosc(); i++) {
 			System.out.println("poziom " + (i + 1));
 			wyswietlpoziomp(i, _root);

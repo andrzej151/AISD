@@ -18,7 +18,7 @@ public class Main {
 		DrzewoRB drzewo = new DrzewoRB();
 
 		do {
-			drzewo.metody();
+			//drzewo.metody();
 			decyzja = odczyt.nextInt();
 			switch (decyzja) {
 			case 1: {
@@ -70,35 +70,15 @@ public class Main {
 			case 8: {
 				try {
 					drzewo.insert(30);
-					System.out.println("Wyswietlanie kluczy poziomami ");
-					drzewo.wyswietlpoziom();
 					drzewo.insert(43);
-					System.out.println("Wyswietlanie kluczy poziomami ");
-					 drzewo.wyswietlpoziom();
 					drzewo.insert(82);
-					System.out.println("Wyswietlanie kluczy poziomami ");
-					 drzewo.wyswietlpoziom();
 					drzewo.insert(35);
-					System.out.println("Wyswietlanie kluczy poziomami ");
-					 drzewo.wyswietlpoziom();
 					drzewo.insert(20);
-					System.out.println("Wyswietlanie kluczy poziomami ");
-					 drzewo.wyswietlpoziom();
 					drzewo.insert(70);
-					System.out.println("Wyswietlanie kluczy poziomami ");
-					 drzewo.wyswietlpoziom();
 					drzewo.insert(50);
-					System.out.println("Wyswietlanie kluczy poziomami ");
-					 drzewo.wyswietlpoziom();
 					drzewo.insert(8);
-					System.out.println("Wyswietlanie kluczy poziomami ");
-					 drzewo.wyswietlpoziom();
 					drzewo.insert(15);
-					System.out.println("Wyswietlanie kluczy poziomami ");
-					 drzewo.wyswietlpoziom();
 					drzewo.insert(60);
-					System.out.println("Wyswietlanie kluczy poziomami ");
-					 drzewo.wyswietlpoziom();
 				} catch (Exception e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();
