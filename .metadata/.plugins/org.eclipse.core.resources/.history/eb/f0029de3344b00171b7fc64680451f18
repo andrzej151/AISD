@@ -123,10 +123,10 @@ public class Main {
 				System.out.println("Liczba wezlow: " + drzewo.lwezlow());
 			}
 				break;
-			case 12: {
-				System.out.println("Wysokosc: " + drzewo.wysokosc());
-			}
-				break;
+//			case 12: {
+//				System.out.println("Liczba wezlow wew: " + drzewo.lwezlowwew());
+//			}
+//				break;
 //			case 13: {
 //				System.out.println("Liczba wezlow: zew" + drzewo.lwezlowzew());
 //			}

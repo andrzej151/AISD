@@ -119,14 +119,14 @@ public class Main {
 //				System.out.println("poprzednik: " + pom +" to ");
 //			}
 //				break;
-			case 11: {
-				System.out.println("Liczba wezlow: " + drzewo.lwezlow());
-			}
-				break;
-			case 12: {
-				System.out.println("Wysokosc: " + drzewo.wysokosc());
-			}
-				break;
+//			case 11: {
+//				System.out.println("Liczba wezlow: " + drzewo.lwezlow());
+//			}
+//				break;
+//			case 12: {
+//				System.out.println("Liczba wezlow wew: " + drzewo.lwezlowwew());
+//			}
+//				break;
 //			case 13: {
 //				System.out.println("Liczba wezlow: zew" + drzewo.lwezlowzew());
 //			}
@@ -152,16 +152,16 @@ public class Main {
 //				drzewo.findpop(pom);
 //			}
 //				break;
-			case 18: {
-				System.out.println("jaki klucz usunac");
-				pom = odczyt.nextInt();
-				drzewo.delete(pom);
-			}
-			case 19: {
-				System.out.println("wysokosc "+drzewo.wysokosc());
-				
-			}
-				break;
+//			case 18: {
+//				System.out.println("jaki klucz usunac");
+//				pom = odczyt.nextInt();
+//				drzewo.delete(pom);
+//			}
+//			case 19: {
+//				System.out.println("wysokosc "+drzewo.wysokosc());
+//				
+//			}
+//				break;
 			default:
 				break;
 			}

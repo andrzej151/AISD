@@ -6,150 +6,309 @@
     <language>en</language>
      <atom:link href="http://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
       <item>
-    <title>JHipster IDE</title>
-    <link>http://marketplace.eclipse.org/content/jhipster-ide</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/JHLogo1.jpg&quot; width=&quot;65&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2016-11-26 14:43&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2017-05-30 11:34&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22JHipster%20%28Open%20Source%20Community%29%22&quot;&gt;JHipster (Open Source Community)&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/scolameoakt/listings&quot; title=&quot;Serano Colameo&quot;&gt;Serano Colameo&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;strong&gt;JHipster IDE&lt;/strong&gt; is an Xtext DSL which provides textual editing support of JHipster Domain Language files for pupular IDEs and editors such as Eclipse and Visual Studio Code. Thanks to Xtext, JHipster-IDE provides the features we have come to expect from modern IDE editors.&lt;/p&gt;
-&lt;p&gt;In the new release (1.2.0) we have fixed issues and added new features to create a new JHipster project from scratch. For that purpose we integrated the Eclipse Terminal (TM) plugin to call &quot;yo jhipster&quot; generator from the project wizard. The generator gets called through a shell script which can be easely modified in the preference page of the JHipster plugin.&lt;/p&gt;
-&lt;p&gt;Finally, the JDL grammar was aligned to the newest changes in the core project of JHipster.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Solved issues:&lt;/strong&gt;&lt;/p&gt;
+    <title>KaiZen OpenAPI Editor</title>
+    <link>http://marketplace.eclipse.org/content/kaizen-openapi-editor</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/KaiZen%20Symbol%20%28v2%29.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2017-05-06 00:51&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2017-06-06 18:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22RepreZen%22&quot;&gt;RepreZen&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/tepsteinccr/listings&quot; title=&quot;Ted Epstein&quot;&gt;Ted Epstein&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;NEW OpenAPI 3.0 support! Create and edit API designs with OAS 3.0, scheduled for release in July. (See below...)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/RepreZen/KaiZen-OpenAPI-Editor&quot; rel=&quot;nofollow&quot;&gt;KaiZen OpenAPI Editor&lt;/a&gt; is RepreZen&#039;s open source, Eclipse-based editor for the industry-standard &lt;a href=&quot;http://openapis.org/&quot; rel=&quot;nofollow&quot;&gt;OpenAPI Specification&lt;/a&gt; language, based on Swagger.  This is the same full-featured editor, formerly known as SwagEdit, and featured in the popular &lt;a href=&quot;https://marketplace.eclipse.org/content/reprezen-api-studio&quot; rel=&quot;nofollow&quot;&gt;RepreZen API Studio&lt;/a&gt; solution. &lt;/p&gt;
+&lt;h2&gt;
+	Swagger-OpenAPI Zen In Your Eclipse IDE&lt;/h2&gt;
+&lt;p&gt;Features Include:&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;
-		Enhanced project creation wizard&lt;/li&gt;
+		&lt;strong&gt;NEW! Experimental support for OpenAPI 3.0 editing&lt;/strong&gt;, based on the current &lt;a href=&quot;https://github.com/OAI/OpenAPI-Specification/blob/OpenAPI.next/versions/3.0.md&quot; rel=&quot;nofollow&quot;&gt;3.0.0‑rc2 draft specification&lt;/a&gt;. With only a few weeks before the &lt;a href=&quot;https://www.openapis.org/blog/2017/05/25/the-open-api-initiative-is-sending-you-a-save-the-date-card&quot; rel=&quot;nofollow&quot;&gt;final release&lt;/a&gt; of OpenAPI 3.0, now is your chance to try the next industry-standard API description language, and provide your feedback to the specification working group. &lt;a href=&quot;https://github.com/RepreZen/KaiZen-OpenAPI-Editor/blob/master/OPEN_API_V3_SUPPORT.md&quot; rel=&quot;nofollow&quot;&gt;Here&#039;s how to get started with OpenAPI 3.0&lt;/a&gt;.&lt;br /&gt;
+		 &lt;/li&gt;
 &lt;li&gt;
-		Added more validations and quick fixes&lt;/li&gt;
+		&lt;strong&gt;Full Swagger-OpenAPI 2.0 compatibility&lt;/strong&gt;.&lt;br /&gt;
+		 &lt;/li&gt;
 &lt;li&gt;
-		Added the type Instant for entity fields to generate timestamps&lt;/li&gt;
+		&lt;strong&gt;Syntax highlighting&lt;/strong&gt; with configurable colors&lt;br /&gt;
+		 &lt;/li&gt;
 &lt;li&gt;
-		Fixed small issues&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;For more information please visit our project page: &lt;a href=&quot;https://jhipster.github.io/jhipster-ide/&quot; rel=&quot;nofollow&quot;&gt;https://jhipster.github.io/jhipster-ide/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
-     <pubDate>Sat, 26 Nov 2016 19:43:19 +0000</pubDate>
- <dc:creator>scolameoakt</dc:creator>
- <guid isPermaLink="false">3184658 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/jhipster-ide#comments</comments>
+		&lt;strong&gt;Content assist&lt;/strong&gt; with custom templates. Scope cycling makes it easy to insert references to definitions in the current file, project or workspace.&lt;br /&gt;
+		 &lt;/li&gt;
+&lt;li&gt;
+		&lt;strong&gt;Real-time validation&lt;/strong&gt;&lt;br /&gt;
+		 &lt;/li&gt;
+&lt;li&gt;
+		&lt;strong&gt;Multi-file support&lt;/strong&gt; with scope-cycling code assist on $ref properties&lt;br /&gt;
+		 &lt;/li&gt;
+&lt;li&gt;
+		&lt;strong&gt;Outline view&lt;/strong&gt;&lt;br /&gt;
+		 &lt;/li&gt;
+&lt;li&gt;
+		&lt;strong&gt;Quick Outline navigation&lt;/strong&gt; with scope cycling, to navigate anywhere within the current file, project or workspace.&lt;br /&gt;
+		 &lt;/li&gt;
+&lt;li&gt;
+		&lt;strong&gt;Hyperlink navigation&lt;/strong&gt; through $ref properties&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Requires Eclipse Mars.2 release or later.&lt;/p&gt;
+&lt;h2&gt;
+	Resources&lt;/h2&gt;
+&lt;h4&gt;
+	KaiZen OpenAPI Editor on GitHub&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;
+		&lt;a href=&quot;https://github.com/RepreZen/KaiZen-OpenAPI-Editor&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Project Page on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+		&lt;a href=&quot;https://github.com/RepreZen/KaiZen-OpenAPI-Editor/blob/master/GETTING_STARTED.md&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Getting Started Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+		&lt;a href=&quot;https://github.com/RepreZen/KaiZen-OpenAPI-Editor/blob/master/TROUBLESHOOTING.md&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Troubleshooting Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+		&lt;a href=&quot;https://github.com/RepreZen/KaiZen-OpenAPI-Editor/blob/master/DEVELOPERS_GUIDE.md&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Developer&#039;s Guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h4&gt;
+	OpenAPI Specifications&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;
+		&lt;a href=&quot;https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Swagger-OpenAPI 2.0 Specification&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+		&lt;a href=&quot;https://github.com/OAI/OpenAPI-Specification/blob/OpenAPI.next/versions/3.0.md&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;OpenAPI 3.0 Specification (DRAFT)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Sat, 06 May 2017 04:51:50 +0000</pubDate>
+ <dc:creator>tepsteinccr</dc:creator>
+ <guid isPermaLink="false">3429028 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/kaizen-openapi-editor#comments</comments>
   </item>
   <item>
-    <title>Bonita BPM </title>
-    <link>http://marketplace.eclipse.org/content/bonita-bpm</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/Bonita_BPM_by%20Bonitasoft-110x80.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2009-12-17 10:35&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2017-05-30 03:40&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Bonitasoft%22&quot;&gt;Bonitasoft&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mmisingnamervj/listings&quot; title=&quot;Bonitasoft Community&quot;&gt;Bonitasoft Community&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Bonita BPM is an intuitive and powerful Business Process Management (BPM) solution for creating and executing process based applications. Bonita BPM combines three solutions in one: a user-friendly Studio for process modeling and application development, an execution engine, and a breakthrough end-user web interface. With Bonita Studio , an Eclipse-based graphical interface, users can draw their processes as naturally as on a white board. They can then define process actors &amp;amp; data, and link them easily with their Information Systems.      Bonita Studio comes with more than 100 built in and contributed connectors for many commonly used commercial and open-source database, messaging system, ERP, CRM, ECM and more. Examples: AD, Alfresco, BIRT, eXo, Jaspersoft, LDAP, Nuxeo, SAP, Sharepoint, SugarCRM, Talend ... Bonita Studio also provides a drag-n-drop application builder helping users design their web-forms easily - and add specific code when needed to achieve full customization. When the application is designed, a simple click is enough to deploy it - either in the built-in test environment, or in production mode. Other Studio features include process simulation, documentation generation, report and dashboard design. Bonita Execution Engine is a powerful and scalable Java workflow engine. It is flexible enough to adapt easily to any Information Systems architecture, from simple to complex. And it&#039;s powerful enough to support intensive workload.     &lt;/p&gt;
-&lt;p&gt;Bonita Portal is a BPM web-portal conceived to be as simple to use as an e-mail inbox allowing end-user to manage their processes and daily tasks.&lt;/p&gt;
-&lt;p&gt;Bonita Portal also give authorized users all the means to monitor and administrate processes execution.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.bonitasoft.com/how-we-do-it/downloads?utm_source=eclipse_market_place&amp;amp;utm_medium=dedicated_page&amp;amp;utm_content=product_presentation&amp;amp;utm_campaign=ecosystem_network&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
-     <pubDate>Thu, 17 Dec 2009 15:35:48 +0000</pubDate>
- <dc:creator>mmisingnamervj</dc:creator>
- <guid isPermaLink="false">1092 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/bonita-bpm#comments</comments>
-  </item>
-  <item>
-    <title>eclipse-pmd</title>
-    <link>http://marketplace.eclipse.org/content/eclipse-pmd</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/eclipse-pmd-logo-110x80.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2013-06-22 05:32&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-05-29 14:03&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Philip%20Graf%22&quot;&gt;Philip Graf&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pgrafn2q/listings&quot; title=&quot;Philip Graf&quot;&gt;Philip Graf&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;The &lt;a href=&quot;http://acanda.github.io/eclipse-pmd/&quot; rel=&quot;nofollow&quot;&gt;eclipse-pmd&lt;/a&gt; plug-in integrates the well-known source code analyzer PMD into the Eclipse IDE. Everytime you save your work, eclipse-pmd scans your source code and looks for potential problems like possible bugs and suboptimal, duplicate, dead or overly complicated code. Where possible, eclipse-pmd offers quick fixes that automatically fix the problems. These quick fixes can be used to fix a single problem or all occurrences in your entire code base.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
-     <pubDate>Sat, 22 Jun 2013 09:32:19 +0000</pubDate>
- <dc:creator>pgrafn2q</dc:creator>
- <guid isPermaLink="false">932046 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/eclipse-pmd#comments</comments>
-  </item>
-  <item>
-    <title>Find/Replace with Regular Expressions and Match Evaluators</title>
-    <link>http://marketplace.eclipse.org/content/findreplace-regular-expressions-and-match-evaluators</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2016-08-21 16:24&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-05-29 08:57&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Florian%20Ingerl%22&quot;&gt;Florian Ingerl&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/fingerl/listings&quot; title=&quot;Florian Ingerl&quot;&gt;Florian Ingerl&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;This Eclipse plugin enhances any editor in Eclipse with a Find/Replace dialog that can be brought up with Ctrl + F5.&lt;/p&gt;
-&lt;p&gt;Compared to the standard Find/Replace dialog in Eclipse, you have the option to replace Regular Expression matches with so-called Match Evaluators.&lt;/p&gt;
-&lt;p&gt;E.g. suppose you coded a user interface and wanted to move a bunch of controls inside a GridLayout one row down, i.e. replace Row=&amp;quot;5&amp;quot; with Row=&amp;quot;6&amp;quot; and replace Row=&amp;quot;100&amp;quot; with Row=&amp;quot;101&amp;quot;.&lt;/p&gt;
-&lt;p&gt;Then search for the Regular Expression (?&amp;lt;=Row=&amp;quot;)(\d+) and use the following Match Evaluator to replace those matches:&lt;/p&gt;
-&lt;p&gt;Function&amp;lt;MatchResult, String&amp;gt; matchEvaluator = new Function&amp;lt;MatchResult, String&amp;gt;(){&lt;/p&gt;
-&lt;p&gt;@Override&lt;/p&gt;
-&lt;p&gt;public String apply(MatchResult match){&lt;/p&gt;
-&lt;p&gt;int i = Integer.parseInt( match.group(1) );&lt;/p&gt;
-&lt;p&gt;return &amp;quot;&amp;quot; + (i+1);&lt;/p&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;};&lt;/p&gt;
+    <title>BugQuery Plugin</title>
+    <link>http://marketplace.eclipse.org/content/bugquery-plugin</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/marketplace_icon.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-06-05 13:44&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2017-06-06 11:17&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Technion%20-%20Israel%20Institute%20of%20Technology%22&quot;&gt;Technion - Israel Institute of Technology&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/yraisman/listings&quot; title=&quot;Yosef Raisman&quot;&gt;Yosef Raisman&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;BugQuery is a search engine for stack traces. It helps you fix your code in a quick and efficient way, using an index of questions and answers extracted from web services like StackOverflow. BugQuery includes this plug-in for Eclipse, alongside a Q/A index and a website.&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
-     <pubDate>Sun, 21 Aug 2016 20:24:07 +0000</pubDate>
- <dc:creator>fingerl</dc:creator>
- <guid isPermaLink="false">3035189 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/findreplace-regular-expressions-and-match-evaluators#comments</comments>
+     <pubDate>Mon, 05 Jun 2017 17:44:15 +0000</pubDate>
+ <dc:creator>yraisman</dc:creator>
+ <guid isPermaLink="false">3478522 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/bugquery-plugin#comments</comments>
   </item>
   <item>
-    <title>SDMapGen</title>
-    <link>http://marketplace.eclipse.org/content/sdmapgen</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2017-05-28 18:15&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-05-29 08:15&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/afuentes6lg/listings&quot; title=&quot;Alberto Fuentes&quot;&gt;Alberto Fuentes&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;SDMapGen is a code generator for mapping between beans from an approach of simplicity of use, that is the reason for being integrated in Eclipse as a plugin. it generates while you are coding so you can review the mapping and adjust it while coding, directly in Java and into the classes where it should be.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
-     <pubDate>Sun, 28 May 2017 22:15:16 +0000</pubDate>
- <dc:creator>afuentes6lg</dc:creator>
- <guid isPermaLink="false">3466013 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/sdmapgen#comments</comments>
+    <title>EGerrit</title>
+    <link>http://marketplace.eclipse.org/content/egerrit</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/SmallEGerrit.png&quot; width=&quot;100&quot; height=&quot;78&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2015-10-23 15:41&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2017-06-06 09:37&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Eclipse.org%22&quot;&gt;Eclipse.org&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/prapicau/listings&quot; title=&quot;Pascal Rapicault&quot;&gt;Pascal Rapicault&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;The EGerrit plug-in aims at deeply integrating the best of Gerrit&#039;s features into Eclipse to minimize the context switch from the IDE to the web, and leveraging IDE specific features such as syntax coloring, navigation, etc. Find more about the features at &lt;a href=&quot;https://wiki.eclipse.org/EGerrit/New_and_Noteworthy&quot; rel=&quot;nofollow&quot;&gt;https://wiki.eclipse.org/EGerrit/New_and_Noteworthy&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Fri, 23 Oct 2015 19:41:55 +0000</pubDate>
+ <dc:creator>prapicau</dc:creator>
+ <guid isPermaLink="false">2579663 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/egerrit#comments</comments>
   </item>
   <item>
-    <title>impulse NEBULA Extension</title>
-    <link>http://marketplace.eclipse.org/content/impulse-nebula-extension</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/impulse110_80_6.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2017-05-27 07:47&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-05-29 08:09&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22toem%22&quot;&gt;toem&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/thaberm7n/listings&quot; title=&quot;Thomas Haber&quot;&gt;Thomas Haber&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Nebula Visualization is a widgets library for data visualization in science, engineering and SCADA areas. These widgets are originally from CSS BOY project.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://toem.de/index.php/projects/impulse-nebula&quot; rel=&quot;nofollow&quot;&gt;This extension&lt;/a&gt; This extension includes XY (Line), Intensity and Eye charts. It supports script extensions. You can display:&lt;/p&gt;
+    <title>vmlens</title>
+    <link>http://marketplace.eclipse.org/content/vmlens</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/eclipse_logo.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2013-04-28 07:37&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2017-06-06 07:10&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22vmlens%22&quot;&gt;vmlens&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/tkrieger0xc/listings&quot; title=&quot;Thomas Krieger&quot;&gt;Thomas Krieger&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;vmlens enables you to test and debug multithreaded java software. vmlens detects Race Conditions automatically using dynamic tracing. Using waitpoints you can find deadlocks and races with tests. See which monitor or field was accesed by more than one thread. See when and where they were accessed.&lt;/p&gt;
+&lt;p&gt;Read more about vmlens here:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vmlens.com/&quot; rel=&quot;nofollow&quot;&gt;http://vmlens.com&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Sun, 28 Apr 2013 11:37:58 +0000</pubDate>
+ <dc:creator>tkrieger0xc</dc:creator>
+ <guid isPermaLink="false">825595 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/vmlens#comments</comments>
+  </item>
+  <item>
+    <title>Eclipse Web Developer Tools</title>
+    <link>http://marketplace.eclipse.org/content/eclipse-web-developer-tools-0</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/wtp_logo_2010-80x80_0.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2016-07-06 20:07&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-06-05 16:25&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22The%20Eclipse%20Foundation%22&quot;&gt;The Eclipse Foundation&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/nitind/listings&quot; title=&quot;Nitin Dahyabhai&quot;&gt;Nitin Dahyabhai&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Includes the HTML, CSS, and JSON Editors, and JavaScript Development Tools from the Eclipse Web Tools Platform project, aimed at supporting client-side web development and node.js applications. Also installs the XML, XML Schema, and DTD Editors from the Eclipse Web Tools Platform project. If you need to edit HTML, CSS, and JavaScript files, whether you&#039;re developing web applications or not, whatever the back-end, this one&#039;s for you.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Thu, 07 Jul 2016 00:07:19 +0000</pubDate>
+ <dc:creator>nitind</dc:creator>
+ <guid isPermaLink="false">2963400 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclipse-web-developer-tools-0#comments</comments>
+  </item>
+  <item>
+    <title>Veracode Greenlight</title>
+    <link>http://marketplace.eclipse.org/content/veracode-greenlight</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/01_Eclipse_Transparent_0.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-04-10 14:32&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-06-05 16:22&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Veracode%22&quot;&gt;Veracode&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jbaker4rv/listings&quot; title=&quot;Jeremy Baker&quot;&gt;Jeremy Baker&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Veracode Greenlight finds security defects in your code and provides contextual remediation advice to help you fix issues in seconds, right in your Eclipse IDE. With Veracode Greenlight, find issues early, reduce development and remediation costs, and deploy quality code on your timeline.&lt;/p&gt;
+&lt;h4&gt;
+	Using the Veracode Greenlight Eclipse Plugin&lt;/h4&gt;
+&lt;p&gt;Visit our &lt;a href=&quot;https://analysiscenter.veracode.com/auth/helpcenter/api/c_about_greenlight.html&quot; rel=&quot;nofollow&quot;&gt;Help Center&lt;/a&gt; for installation and usage instructions. If you have any questions or need assistance at any time, please contact your Veracode Program Manager or &lt;a href=&quot;mailto:support@veracode.com&quot; rel=&quot;nofollow&quot;&gt;support@veracode.com&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Mon, 10 Apr 2017 18:32:57 +0000</pubDate>
+ <dc:creator>jbaker4rv</dc:creator>
+ <guid isPermaLink="false">3388415 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/veracode-greenlight#comments</comments>
+  </item>
+  <item>
+    <title>RepreZen API Studio</title>
+    <link>http://marketplace.eclipse.org/content/reprezen-api-studio</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/icon-eclipse-marketplace.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2016-10-27 21:28&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-06-05 15:55&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22RepreZen%22&quot;&gt;RepreZen&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/tepsteinccr/listings&quot; title=&quot;Ted Epstein&quot;&gt;Ted Epstein&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;strong&gt;NEW OpenAPI 3.0 support! Create and edit API designs with OAS 3.0, scheduled for release in July.&lt;/strong&gt; (See below...)&lt;/p&gt;
+&lt;h2&gt;
+	Powerful Swagger-OpenAPI Design, Documentation &amp;amp; Development&lt;/h2&gt;
+
+&lt;p&gt;RepreZen API Studio is the most productive REST API design environment, with everything you need to design, document and deliver world-class APIs and microservices in a fraction of the time.&lt;/p&gt;
+&lt;h2&gt;
+		Key capabilities:&lt;/h2&gt;
+&lt;p&gt;	&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;
-		    Numerical signals (Integer, Float) with 1 or 2 members (XY)&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;http://toem.de/index.php/projects/impulse&quot; rel=&quot;nofollow&quot;&gt;impulse&lt;/a&gt; is a powerful waveform viewer and analyser tool, helping engineers to comfortably understand and debug complex semiconductor and multi-core software systems.&lt;/p&gt;
-&lt;p&gt;This feature is licensed under the EPL. It is build on impulse that is deployed under a different license.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
-     <pubDate>Sat, 27 May 2017 11:47:20 +0000</pubDate>
- <dc:creator>thaberm7n</dc:creator>
- <guid isPermaLink="false">3464783 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/impulse-nebula-extension#comments</comments>
-  </item>
-  <item>
-    <title>impulse BIRT Extension</title>
-    <link>http://marketplace.eclipse.org/content/impulse-birt-extension</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/impulse110_80_5.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2017-05-27 07:42&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-05-29 08:08&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22toem%22&quot;&gt;toem&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/thaberm7n/listings&quot; title=&quot;Thomas Haber&quot;&gt;Thomas Haber&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;BIRT is an open source technology platform used to create data visualizations and reports that can be embedded into rich client and web applications.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://toem.de/index.php/projects/impulse-birt&quot; rel=&quot;nofollow&quot;&gt;This extension&lt;/a&gt; includes Bar, Pie, Line and Radar charts. It supports the Birt script extension mechanism (see the book &quot;Integrating and Extending BIRT&quot;). You can display:&lt;/p&gt;
+			&lt;strong&gt;Model your APIs&lt;/strong&gt; with industry-standard &lt;a href=&quot;http://swagger.io&quot; rel=&quot;nofollow&quot;&gt;Swagger&lt;/a&gt;–&lt;a href=&quot;http://openapis.org/&quot; rel=&quot;nofollow&quot;&gt;OpenAPI&lt;/a&gt; 2.0 or with &lt;a href=&quot;http://rapid-api.org/rapid-ml&quot; rel=&quot;nofollow&quot;&gt;RAPID-ML&lt;/a&gt;, an innovative, domain-driven API modeling language.&lt;br /&gt;
+			 &lt;/li&gt;
+&lt;li&gt;
+			&lt;strong&gt;NEW! Experimental support for OpenAPI 3.0 editing&lt;/strong&gt;, based on the current &lt;a href=&quot;https://github.com/OAI/OpenAPI-Specification/blob/OpenAPI.next/versions/3.0.md&quot; rel=&quot;nofollow&quot;&gt;3.0.0‑rc2 draft specification&lt;/a&gt;. With only a few weeks before the &lt;a href=&quot;https://www.openapis.org/blog/2017/05/25/the-open-api-initiative-is-sending-you-a-save-the-date-card&quot; rel=&quot;nofollow&quot;&gt;final release&lt;/a&gt; of OpenAPI 3.0, now is your chance to try the next industry-standard API description language, and provide your feedback to the specification working group. &lt;a href=&quot;https://github.com/RepreZen/KaiZen-OpenAPI-Editor/blob/master/OPEN_API_V3_SUPPORT.md&quot; rel=&quot;nofollow&quot;&gt;Here&#039;s how to get started with OpenAPI 3.0&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;
+			&lt;strong&gt;Full-featured Editors&lt;/strong&gt;, with code assist, customizable templates, detailed validation messages, outline view, customizable fonts &amp;amp; syntax color themes.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;
+			&lt;strong&gt;Live documentation and diagram views&lt;/strong&gt; give you immediate insight to your API design, as you edit. You can also generate and publish these as documentation for your API client developers.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;
+			&lt;strong&gt;Easily supports large multi-file projects&lt;/strong&gt;, allowing you to split a Swagger Specification across multiple files for easier navigation and team collaboration. One of our users, working on a massive API documentation catalog, thinks API Studio is &quot;&lt;a href=&quot;https://www.g2crowd.com/survey_responses/reprezen-api-studio-review-129992&quot; rel=&quot;nofollow&quot;&gt;Likely the best Swagger editor on planet Earth&lt;/a&gt;&quot; for this reason.  :-)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;	&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;
-		    Numerical signals (Integer, Float) - The chart will show each numerical change.&lt;/li&gt;
+			&lt;strong&gt;Built-in sandbox testing&lt;/strong&gt; with the integrated mock service and Swagger-UI view.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;
+			&lt;strong&gt;Powerful, extensible code gen framework&lt;/strong&gt; lets you build &lt;a href=&quot;http://docs.reprezen.com/#code-gen&quot; rel=&quot;nofollow&quot;&gt;custom generators&lt;/a&gt; with powerful Xtend templates and integrated debugging. Also fully supports Swagger-Codegen, and a growing collection of 3rd-party open source generators. Over 70 generators ready to use, including server implementation stubs, client libraries, documentation .&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;
+			&lt;strong&gt;Maven and Gradle build automation &lt;/strong&gt;for code generation, and a convenient YAML configuration format for each generation target that provides access code gen options. Standard and custom generators all use this project structure to run inside API Studio, from the command line, or from continuous integration.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;	&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+			&lt;strong&gt;Runs on Eclipse&lt;/strong&gt; as a standalone RCP app, or as a plug-in feature in a standard Eclipse IDE. You can do your work in your primary development space, with full access to all of your resources, not stuck in a browser sandbox.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;
+			&lt;strong&gt;Plug-in team collaboration &lt;/strong&gt;with Eclipse integrations. API Studio supports a wide range of version control, issue trackers, and continuous integration tools. Git and GitHub are fully supported. Collaboration works on the platforms you&#039;re already using, so you don&#039;t have to manage a separate set of teams and permissions.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;
+			&lt;strong&gt;Your APIs. Your code. No limits.&lt;/strong&gt; RepreZen doesn&#039;t hold your API designs hostage, and won&#039;t put any limits on the number of APIs or resources you create. So go ahead and redesign your world as microservices. Edit, test, generate, collaborate, publish, deploy... and become the stuff of API legend.&lt;/li&gt;
+&lt;/ul&gt;&lt;dl&gt;&lt;dt&gt;
+			&lt;strong&gt;Note:&lt;/strong&gt;&lt;/dt&gt;
+&lt;dd&gt;
+			This is the add-on solution for Eclipse IDE distributions, Mars.2 or later. The standalone RCP application is &lt;a href=&quot;http://reprezen.com/swagger-tools&quot; rel=&quot;nofollow&quot;&gt;available here&lt;/a&gt;.&lt;/dd&gt;
+&lt;/dl&gt;&lt;h3&gt;
+		More information:&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;
+			&lt;a href=&quot;http://reprezen.com/swagger-tools&quot; rel=&quot;nofollow&quot;&gt;Product Video and Feature Tour&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-		    Struct signals - The chart shows each numerical member of multiple struct values (like a table).&lt;/li&gt;
+			&lt;a href=&quot;http://reprezen.com/pricing&quot; rel=&quot;nofollow&quot;&gt;Plans and Pricing&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
-		    Any other signal by using a script production to analyze the source signal and preparing structural data for the chart.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;http://toem.de/index.php/projects/impulse&quot; rel=&quot;nofollow&quot;&gt;impulse&lt;/a&gt; is a powerful waveform viewer and analyser tool, helping engineers to comfortably understand and debug complex semiconductor and multi-core software systems.&lt;/p&gt;
-&lt;p&gt;This feature is licensed under the EPL. It is build on impulse that is deployed under a different license.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
-     <pubDate>Sat, 27 May 2017 11:42:41 +0000</pubDate>
- <dc:creator>thaberm7n</dc:creator>
- <guid isPermaLink="false">3464778 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/impulse-birt-extension#comments</comments>
+			&lt;a href=&quot;https://goo.gl/dQSwjU&quot; rel=&quot;nofollow&quot;&gt;Getting Started Videos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+			&lt;a href=&quot;http://support.reprezen.com&quot; rel=&quot;nofollow&quot;&gt;Community &amp;amp; Support Site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+			&lt;a href=&quot;http://RepreZen.com/blog&quot; rel=&quot;nofollow&quot;&gt;Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Fri, 28 Oct 2016 01:28:20 +0000</pubDate>
+ <dc:creator>tepsteinccr</dc:creator>
+ <guid isPermaLink="false">3138718 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/reprezen-api-studio#comments</comments>
   </item>
   <item>
-    <title>impulse OPC/UA Extension</title>
-    <link>http://marketplace.eclipse.org/content/impulse-opcua-extension</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/impulse110_80_4.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2017-05-27 07:36&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-05-29 08:07&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22toem%22&quot;&gt;toem&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/thaberm7n/listings&quot; title=&quot;Thomas Haber&quot;&gt;Thomas Haber&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;OPC Unified Architecture (OPC UA) is an industrial M2M communication protocol for interoperability developed by the OPC Foundation and successor of the COM/DCOM based OPC protocol. This new plug-in allows eclipse/impulse users to connect to such servers and trace variables and events. Its UI simplifies configuration of multiple connections.&lt;/p&gt;
-&lt;p&gt;With &lt;a href=&quot;http://toem.de/index.php/projects/impulse-opcua&quot; rel=&quot;nofollow&quot;&gt;this extension&lt;/a&gt; you can use eclipse/impulse as backend for OPC/UA.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://toem.de/index.php/projects/impulse&quot; rel=&quot;nofollow&quot;&gt;impulse&lt;/a&gt; is a powerful waveform viewer and analyser tool, helping engineers to comfortably understand and debug complex semiconductor and multi-core software systems.&lt;/p&gt;
-&lt;p&gt;This feature is licensed under the EPL. It is build on impulse that is deployed under a different license.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
-     <pubDate>Sat, 27 May 2017 11:36:32 +0000</pubDate>
- <dc:creator>thaberm7n</dc:creator>
- <guid isPermaLink="false">3464774 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/impulse-opcua-extension#comments</comments>
+    <title>Eclipse Java EE Developer Tools</title>
+    <link>http://marketplace.eclipse.org/content/eclipse-java-ee-developer-tools-0</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/wtp_logo_2010-80x80_1.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2016-07-06 21:31&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-06-05 15:52&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22The%20Eclipse%20Foundation%22&quot;&gt;The Eclipse Foundation&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/nitind/listings&quot; title=&quot;Nitin Dahyabhai&quot;&gt;Nitin Dahyabhai&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Enables Enterprise Java Bean, Java Enterprise Application, Fragments, and Connector, Java Web Application, JavaServer Faces (JSF), Java Server Pages (JSP), Java Servlet, Java Web Services, and Tag Library development and debugging, plus Java Enterprise server and Java Servlet Container launching and debugging. Includes the JSP, HTML, CSS, and JSON Editors, JavaScript Developer Tools, the XML, XML Schema, and DTD Editors from the Eclipse Web Tools Platform project. If you&#039;re developing web applications with a Java-based back-end, this one&#039;s for you.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Thu, 07 Jul 2016 01:31:37 +0000</pubDate>
+ <dc:creator>nitind</dc:creator>
+ <guid isPermaLink="false">2963451 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclipse-java-ee-developer-tools-0#comments</comments>
   </item>
   <item>
-    <title>impulse SPICE Extension</title>
-    <link>http://marketplace.eclipse.org/content/impulse-spice-extension</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/impulse110_80_3.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2017-05-27 06:10&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-05-29 08:06&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22toem%22&quot;&gt;toem&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/thaberm7n/listings&quot; title=&quot;Thomas Haber&quot;&gt;Thomas Haber&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;SPICE (Simulation Program with Integrated Circuit Emphasis) characterizes a group of electronic circuit simulator software packags. Originally the name comes from Berkeley SPICE:&quot;SPICE is a general-purpose circuit simulation program for nonlinear dc, nonlinear transient, and linear ac analyses. Circuits may contain resistors, capacitors, inductors, mutual inductors, independent voltage and current sources, four types of dependent sources, lossless and lossy transmission lines (two separate implementations), switches, uniform distributed RC lines, and the five most common semiconductor devices: diodes, BJTs, JFETs, MESFETs, and MOSFETs. SPICE originates from the EECS Department of the University of California at Berkeley.&quot;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://toem.de/index.php/projects/impulse&quot; rel=&quot;nofollow&quot;&gt;impulse&lt;/a&gt; is a powerful waveform viewer and analyser tool, helping engineers to comfortably understand and debug complex semiconductor and multi-core software systems.&lt;/p&gt;
-&lt;p&gt;There are a number of SPICE related file formats supported with this extension &lt;a href=&quot;http://toem.de/index.php/projects/impulse-spice&quot; rel=&quot;nofollow&quot;&gt;this extension&lt;/a&gt; to read, display and analyze the simulation output. HSpice and Spice3 are supported natively, wheras NanoSim needs an external conversion tool&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
-     <pubDate>Sat, 27 May 2017 10:10:28 +0000</pubDate>
- <dc:creator>thaberm7n</dc:creator>
- <guid isPermaLink="false">3464678 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/impulse-spice-extension#comments</comments>
+    <title>SparkBuilderGenerator</title>
+    <link>http://marketplace.eclipse.org/content/sparkbuildergenerator</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/sparkbuildergeneratoricon.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2016-10-23 07:09&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-06-05 11:51&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/hsparkwpb/listings&quot; title=&quot;Helo Spark&quot;&gt;Helo Spark&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Generates a builder according to the GoF pattern for Java domain objects.&lt;/p&gt;
+&lt;h2&gt;
+	&lt;strong&gt;Features&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;&lt;li&gt;
+		Generates a builder with custom name patterns&lt;/li&gt;
+&lt;li&gt;
+		Can generate &lt;a href=&quot;http://blog.crisp.se/2013/10/09/perlundholm/another-builder-pattern-for-java&quot; rel=&quot;nofollow&quot;&gt;staged builder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+		Capable of regenerating the builder&lt;/li&gt;
+&lt;li&gt;
+		Compatible with most version of Eclipse&lt;/li&gt;
+&lt;li&gt;
+		Highly configurable, check the plugin&#039;s preferences page&lt;/li&gt;
+&lt;li&gt;
+		Capable of generate builder methods for visible fields in superclass&lt;/li&gt;
+&lt;li&gt;
+		Open source (with very permissible MIT license)&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;
+	&lt;strong&gt;Usage&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;To invoke the generation have a Java file active and press either the icon on the toolbar (the hammer) or Ctrl+Shift+B.&lt;br /&gt;
+	You can click the small arrow next to the main icon to generate a different builder type (like staged builder), if you usually generate a certain kind of builder, set the default builder in the preferences page.&lt;br /&gt;
+	You can set the preferences under: &lt;strong&gt;&lt;em&gt;Window-&amp;gt;Preferences-&amp;gt;Java-&amp;gt;Spark Builder Generator&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;
+	&lt;strong&gt;Example result:&lt;/strong&gt;&lt;/h2&gt;
+&lt;pre&gt;
+  public class Clazz {
+        private Integer firstField;
+        private Long secondField;
+        @Generated(&quot;SparkTools&quot;)
+        private Clazz(Builder builder) {
+            this.firstField = builder.firstField;
+            this.secondField = builder.secondField;
+        }
+        /**
+         * Creates builder to build {@link Clazz}.
+         * @return created builder
+         */
+        @Generated(&quot;SparkTools&quot;)
+        public static Builder builder() {
+            return new Builder();
+        }
+        /**
+         * Builder to build {@link Clazz}.
+         */
+        @Generated(&quot;SparkTools&quot;)
+        public static class Builder {
+            private Integer firstField;
+            private Long secondField;
+
+            private Builder() {
+            }
+
+            /**
+            * Builder method for firstField parameter.
+            * @return builder
+            */
+            @Nonnull
+            public Builder withFirstField(@Nonnull Integer firstField) {
+                this.firstField = firstField;
+                return this;
+            }
+
+            /**
+            * Builder method for secondField parameter.
+            * @return builder
+            */
+            @Nonnull
+            public Builder withSecondField(@Nonnull Long secondField) {
+                this.secondField = secondField;
+                return this;
+            }
+
+            /**
+            * Builder method of the builder.
+            * @return built class
+            */
+            @Nonnull
+            public Clazz build() {
+                return new Clazz(this);
+            }
+        }
+    }
+&lt;/pre&gt;&lt;h2&gt;
+	&lt;strong&gt;Release notes&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;0.0.5&lt;/strong&gt; Added handling for code style prefix and suffix, see &lt;a href=&quot;https://github.com/helospark/SparkBuilderGenerator/issues/5&quot; rel=&quot;nofollow&quot;&gt;Github issue 5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;0.0.6&lt;/strong&gt; Added staged builder support., see &lt;a href=&quot;https://github.com/helospark/SparkBuilderGenerator/issues/4&quot; rel=&quot;nofollow&quot;&gt;Github issue 4&lt;/a&gt; Staged builder allows you to verify that all of the mandatory fields are set at compile time.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;0.0.7&lt;/strong&gt; Option to add visible fields from superclasses to the builder, see &lt;a href=&quot;https://github.com/helospark/SparkBuilderGenerator/issues/7&quot; rel=&quot;nofollow&quot;&gt;Github issue 7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;0.0.8&lt;/strong&gt; Fixed regression bug that was introduced in 0.0.7. While collection visible fields from superclasses, under some Eclipse configurations IllegalArgumentException occurred during java.lang.Object parsing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;0.0.9&lt;/strong&gt; Added option to generate builder to selected class (in case of nested classes, or multiple classes in a single file), see &lt;a href=&quot;https://github.com/helospark/SparkBuilderGenerator/issues/10&quot; rel=&quot;nofollow&quot;&gt;Github issue 10&lt;/a&gt; Improvements to previous Builder class removing logic&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;0.0.10&lt;/strong&gt; Added the option to select which fields are generated in the builder, see &lt;a href=&quot;https://github.com/helospark/SparkBuilderGenerator/issues/8&quot; rel=&quot;nofollow&quot;&gt;Github issue 8&lt;/a&gt; Fixed a small bug that deleted the previous builder when pressing the cancel button on the staging builder generator dialog Added MIT license file to plugin&#039;s site.xml, so it will show up on installation&lt;/p&gt;
+&lt;h3&gt;
+	&lt;strong&gt;Additional information:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;On the GitHub page: &lt;a href=&quot;https://github.com/helospark/SparkBuilderGenerator&quot; rel=&quot;nofollow&quot;&gt;https://github.com/helospark/SparkBuilderGenerator&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Sun, 23 Oct 2016 11:09:34 +0000</pubDate>
+ <dc:creator>hsparkwpb</dc:creator>
+ <guid isPermaLink="false">3130970 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/sparkbuildergenerator#comments</comments>
   </item>
   <item>
-    <title>Maestro Studio for Microsoft C/C++ compiler</title>
-    <link>http://marketplace.eclipse.org/content/maestro-studio-microsoft-cc-compiler</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/C-1.png&quot; width=&quot;110&quot; height=&quot;74&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2017-05-26 18:09&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-05-29 08:04&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Maestrosoft%20Technologies%22&quot;&gt;Maestrosoft Technologies&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/gmisingnamepu1/listings&quot; title=&quot;guy bonneau&quot;&gt;guy bonneau&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Maestrosoft Studio is a powerful plugin add-on to Eclipse that enables integration of the Microsoft Visual Studio C/C++ compiler into the Eclipse IDE. (Microsoft debugger is not integrated into the Eclipse IDE and is not supported)&lt;/p&gt;
-&lt;p&gt;	Supported features:&lt;br /&gt;
-	* Concurrent different version flavor of the Microsoft Visual Studio C++ compiler.&lt;br /&gt;
-	* Concurrent 32/64 bits toolchains.&lt;br /&gt;
-	* Support different CPU architecture: x86, ia64 (Itanium)&lt;br /&gt;
-	* Concurrent x86 cross compilers&lt;br /&gt;
-	* Support the MASM assembler compiler&lt;br /&gt;
-	* Precompiled header compilation&lt;br /&gt;
-	* Near complete full set of the C++/Linker options availability&lt;br /&gt;
-	* Templates for shared library, static library and Windows Application&lt;br /&gt;
-	* Eclipse 32 bit/64 bits IDE capability&lt;br /&gt;
-	* Works with WIndows 32/64 bits OS (Windows Vista and higher)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
-     <pubDate>Fri, 26 May 2017 22:09:26 +0000</pubDate>
- <dc:creator>gmisingnamepu1</dc:creator>
- <guid isPermaLink="false">3464077 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/maestro-studio-microsoft-cc-compiler#comments</comments>
+    <title>Java 9 Support (BETA) for Oxygen</title>
+    <link>http://marketplace.eclipse.org/content/java-9-support-beta-oxygen</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2015-06-16 11:11&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-06-05 10:17&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22The%20Eclipse%20Foundation%22&quot;&gt;The Eclipse Foundation&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/wbeaton/listings&quot; title=&quot;Wayne Beaton&quot;&gt;Wayne Beaton&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Java™ 9 support has not yet landed in our standard download packages. But you can add an early access preview to your existing Eclipse Oxygen (4.7) install. The Eclipse Java™ 9 Support (BETA) contains the following:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		ability to add JRE and JDK 9 as installed JRE&lt;/li&gt;
+&lt;li&gt;
+		support for JavaSE-9 execution environment&lt;/li&gt;
+&lt;li&gt;
+		ability to create Java and Plug-in projects that use a JRE or JDK 9&lt;/li&gt;
+&lt;li&gt;
+		ability to compile modules that are part of a Java project&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Notes:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		You need Oxygen (4.7) RC3 (or above) Eclipse SDK milestone or integration build (available from &lt;a href=&quot;http://download.eclipse.org/eclipse/downloads/&quot; rel=&quot;nofollow&quot;&gt;http://download.eclipse.org/eclipse/downloads/&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;
+		You need a recent Java™ 9 JDK from &lt;a href=&quot;https://jdk9.java.net/&quot; rel=&quot;nofollow&quot;&gt;https://jdk9.java.net/&lt;/a&gt;  (Note: This has been tested with JDK 9 early access build 169. Other versions may not work with this patch.)&lt;/li&gt;
+&lt;li&gt;
+		If you are launching eclipse with JDK9 [either via system or via -vm option in eclipse.ini file) then, in eclipse.ini file, after -vmargs line add --add-modules=ALL-SYSTEM. This should launch eclipse. If you get an IllegalAccessException or InaccessibleObjectException, you can add --permit-illegal-access additionally after the -vmargs.&lt;/li&gt;
+&lt;li&gt;
+		For the modular dependency between projects to work (without explicit project dependency) the following needs to be added to the .classpath manually:  &amp;lt;classpathentry kind=&quot;con&quot; path=&quot;org.eclipse.jdt.MODULE_PATH&quot;/&amp;gt;  If this does not seem to have an effect, the project should be closed and reopened, as a workaround. Once it is done, the entry Module Source Path should appear as a child in the Package Explorer and projects referenced in the module-info should be visible under the Module Source Path just like they do under the Referenced Libraries entry.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;This is an implementation of an early-draft specification developed under the Java Community Process (JCP) and is made available for testing and evaluation purposes only. The code is not compatible with any specification of the JCP.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Tue, 16 Jun 2015 15:11:01 +0000</pubDate>
+ <dc:creator>wbeaton</dc:creator>
+ <guid isPermaLink="false">2393593 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/java-9-support-beta-oxygen#comments</comments>
   </item>
   </channel>
 </rss>

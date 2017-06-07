@@ -81,18 +81,12 @@ public class DrzewoRB {
 	}
 
 	private Node fixUp(Node t) {
-		if (isRed(t.left) && isRed(t.left.right)) {
-			t.left=rotateL(t.left);
-			t = rotateR(t);
-		}
-		if (isRed(t.right) && isRed(t.right.left)) {
-			t.right=rotateR(t.right);
+		if (isRed(t.right))
 			t = rotateL(t);
-		}
 		if (isRed(t.left) && isRed(t.left.left))
 			t = rotateR(t);
-		if (isRed(t.right) && isRed(t.right.right))
-			t = rotateL(t);
+		if (isRed(t.left) && isRed(t.right))
+			colorZm(t);
 		return t;
 	}
 

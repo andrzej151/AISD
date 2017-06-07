@@ -2,6 +2,10 @@ package DrzewoRB;
 
 import java.util.Random;
 
+
+
+
+
 public class DrzewoRB {
 	static final boolean RED = true;
 	static final boolean BLACK = false;
@@ -56,10 +60,10 @@ public class DrzewoRB {
 	}
 
 	public void insert(int x) {
-		System.out.println("Wstawiam " + x);
+		System.out.println("Wstawiam "+x);
 		_root = insert(x, _root);
 		_root.color = BLACK;
-
+		
 		System.out.println();
 	}
 
@@ -81,18 +85,12 @@ public class DrzewoRB {
 	}
 
 	private Node fixUp(Node t) {
-		if (isRed(t.left) && isRed(t.left.right)) {
-			t.left=rotateL(t.left);
-			t = rotateR(t);
-		}
-		if (isRed(t.right) && isRed(t.right.left)) {
-			t.right=rotateR(t.right);
+		if (isRed(t.right))
 			t = rotateL(t);
-		}
 		if (isRed(t.left) && isRed(t.left.left))
 			t = rotateR(t);
-		if (isRed(t.right) && isRed(t.right.right))
-			t = rotateL(t);
+		if (isRed(t.left) && isRed(t.right))
+			colorZm(t);
 		return t;
 	}
 
@@ -175,6 +173,8 @@ public class DrzewoRB {
 		return result;
 	}
 
+	
+
 	public int wysokosc() {
 		// TODO Auto-generated method stub
 		return wysokoscp(_root);
@@ -188,12 +188,11 @@ public class DrzewoRB {
 		int p = wysokoscp(n.right);
 		return (l > p) ? l + 1 : p + 1;
 	}
-
 	public void wyswietlpoziom() {
 		// TODO Auto-generated method stub
 		int wys = wysokosc();
 		System.out.println("klucze poziomami");
-
+		
 		for (int i = 0; i < wysokosc(); i++) {
 			System.out.println("poziom " + (i + 1));
 			wyswietlpoziomp(i, _root);
@@ -201,7 +200,7 @@ public class DrzewoRB {
 		}
 
 	}
-
+	
 	private void wyswietlpoziomp(int p, Node n) {
 		if (n != null) {
 			if (p == 0) {
@@ -210,12 +209,14 @@ public class DrzewoRB {
 				wyswietlpoziomp(p - 1, n.left);
 				wyswietlpoziomp(p - 1, n.right);
 			}
-		} else {
-			System.out.print("  *  ");
+		}
+		else
+		{
+		System.out.print("  *  ");
 		}
 
 	}
-
+	
 	public int lwezlow() {
 		// TODO Auto-generated method stub
 		return lwezlowp(_root);
@@ -228,6 +229,8 @@ public class DrzewoRB {
 		return lwezlowp(n.left) + lwezlowp(n.right) + 1;
 	}
 
+	
+	
 	public void metody() {
 		// TODO Auto-generated method stub
 		System.out.println("1 *- Wstaw wezel o podanym kluczy");
@@ -241,7 +244,7 @@ public class DrzewoRB {
 		System.out.println("9 - wyszukaj nastepnika drzewa");
 		System.out.println("10 - wyszukaj poprzednika drzewa");
 		System.out.println("11 *- liczba wezlow");
-		System.out.println("12 *- wysokosc");
+		System.out.println("12 - liczba wezlow wewnetrznych");
 		System.out.println("13 - liczba wezlow zewnetrznych");
 		System.out.println("14 - liczba lisci");
 		System.out.println("15 *- wyswietlanie kluczy poziomami");
@@ -256,6 +259,7 @@ public class DrzewoRB {
 		Node left;
 		Node right;
 		boolean color;
+		int poziom;
 
 		Node(int x) {
 			value = x;
@@ -266,7 +270,7 @@ public class DrzewoRB {
 		@Override
 		public String toString() {
 			// TODO Auto-generated method stub
-			return " " + value + " (" + (color ? "R)" : "B)");
+			return " " + value + " (" + (color ? "R)" : "B)") ;
 		}
 	}
 
