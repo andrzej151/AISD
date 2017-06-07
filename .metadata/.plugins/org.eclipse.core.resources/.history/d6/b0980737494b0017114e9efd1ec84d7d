@@ -1,0 +1,25 @@
+package Grafy;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Zbior z= new Zbior();
+		z.MAKE_SET(4);
+		z.wyswietl();
+		
+		z.MAKE_SET(6);
+		z.wyswietl();
+		
+		z.MAKE_SET(5);
+		z.wyswietl();
+		
+		z.MAKE_SET(7);
+		z.wyswietl();
+		
+		
+		z.UNION(0, 1);
+		z.wyswietl();
+	}
+
+}

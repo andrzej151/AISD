@@ -1,10 +1,6 @@
 INDEX VERSION 1.129+X:\studia\sem4\Algorytmy i struktury danych\AISD\.metadata\.plugins\org.eclipse.jdt.core
-414978335.index
 2518114411.index
-2133282975.index
 2039262431.index
-471236001.index
-618723895.index
 1992460661.index
 244030537.index
 29735395.index
@@ -13,22 +9,9 @@ INDEX VERSION 1.129+X:\studia\sem4\Algorytmy i struktury danych\AISD\.metadata\.
 596274535.index
 3775942909.index
 4242768837.index
-4184201189.index
-3407430047.index
-2637943071.index
-1075794691.index
-2855899100.index
-2809250744.index
+300002036.index
 4023113935.index
 1907314028.index
 4293905368.index
-781808.index
-1644702904.index
 2296970062.index
-3417200662.index
-351221734.index
-808374113.index
-2800558102.index
-985286902.index
 2678139968.index
-2019903893.index
