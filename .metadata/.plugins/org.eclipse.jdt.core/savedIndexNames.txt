@@ -1,5 +1,6 @@
 INDEX VERSION 1.129+X:\studia\sem4\Algorytmy i struktury danych\AISD\.metadata\.plugins\org.eclipse.jdt.core
 2518114411.index
+91337855.index
 2039262431.index
 1992460661.index
 244030537.index
