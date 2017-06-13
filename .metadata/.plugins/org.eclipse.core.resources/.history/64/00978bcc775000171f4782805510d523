@@ -1,0 +1,23 @@
+package Grafy;
+
+public class NeighbourhoodListGraph implements Graph {
+
+	@Override
+	public void add(int a, int b) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void printConnections() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void printInner() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

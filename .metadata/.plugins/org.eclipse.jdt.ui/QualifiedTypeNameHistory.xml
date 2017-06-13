@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="listy.Iterator"/>
-<fullyQualifiedTypeName name="listy.LinkedList.Element"/>
 <fullyQualifiedTypeName name="kolejki.Kolejka.Element"/>
 <fullyQualifiedTypeName name="kolejki.Kolejka"/>
 <fullyQualifiedTypeName name="kolejki.Queue"/>
@@ -60,4 +58,6 @@
 <fullyQualifiedTypeName name="Grafy.Zbior"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="Grafy.Zbior.Node"/>
+<fullyQualifiedTypeName name="junit.framework.Assert"/>
+<fullyQualifiedTypeName name="org.junit.Assert"/>
 </qualifiedTypeNameHistroy>
