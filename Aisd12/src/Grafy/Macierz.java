@@ -59,6 +59,9 @@ public class Macierz implements Graph {
 		for (int i = 0; i < map.length; i++) {
 			System.out.printf("\n%3d |", i);
 			for (int j = 0; j < map[i].length; j++) {
+				if(i==j)
+				System.out.printf("%3d",  0);
+				else
 				System.out.printf("%3d", map[i][j] ? 1 : 0);
 			}
 		}
