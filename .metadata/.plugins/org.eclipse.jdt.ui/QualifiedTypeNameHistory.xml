@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="kolejki.Kolejka.Element"/>
-<fullyQualifiedTypeName name="kolejki.Kolejka"/>
-<fullyQualifiedTypeName name="kolejki.Queue"/>
 <fullyQualifiedTypeName name="kolejki.EmptyQueueException"/>
 <fullyQualifiedTypeName name="kolejki.Bufor"/>
 <fullyQualifiedTypeName name="java.lang.Exception"/>
@@ -37,12 +34,9 @@
 <fullyQualifiedTypeName name="WysukiwanieBinarne.Wyszukiwanie"/>
 <fullyQualifiedTypeName name="DrzewoBST.Comparator"/>
 <fullyQualifiedTypeName name="DrzewoBST.IntComparator"/>
-<fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="DrzewoBST.DrzewoBST.Node"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="SortowanieKopcowe.InsertSort"/>
 <fullyQualifiedTypeName name="SortowanieKopcowe.HeapSort"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.util.Random"/>
 <fullyQualifiedTypeName name="SortowanieKopcowe.SortedPriorityQueue"/>
 <fullyQualifiedTypeName name="SortowanieKopcowe.UnsortedPriorityQueue"/>
@@ -60,4 +54,10 @@
 <fullyQualifiedTypeName name="Grafy.Zbior.Node"/>
 <fullyQualifiedTypeName name="junit.framework.Assert"/>
 <fullyQualifiedTypeName name="org.junit.Assert"/>
+<fullyQualifiedTypeName name="Testy.Exege"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>
